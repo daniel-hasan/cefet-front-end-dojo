@@ -59,7 +59,9 @@ Exercício: fazer uma página explicando o que é Coding Dojo
 
 1. Baixe a pratica do GitHub criado
 1. Em um editor de texto (ex: VS Code), abra a pasta `code-dojo` inteira
-1. <u>Ao final</u> da atividade, a estrutura de pastas será assim: [Estrutura](passo-a-passo/coding-dojo-estrutura-de-pastas.png) 
+1. <u>Ao final</u> da atividade, a estrutura de pastas será assim:
+
+   ![Estrutura](passo-a-passo/coding-dojo-estrutura-de-pastas.png) 
 
 
 ---
