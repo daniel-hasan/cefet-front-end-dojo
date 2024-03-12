@@ -7,7 +7,7 @@
 ---
 <!-- {"layout": "centered"} -->
 
-# O que é Coding Dojo? ![Coding Dojo](../../images/coding-dojo.png)<!-- {.push-left style="height: 100px;"} -->
+# O que é Coding Dojo? 
 
 **Dojo**
 ~ Local de treinamento :japanese_castle: (em japonês)
@@ -18,8 +18,6 @@
 ~ Local de treinamento para **codificar**
 ~ Veja um [videozim sobre](https://www.youtube.com/watch?v=vqnwQ3oVM1M)
 
----
-# Coding Dojo ![Coding Dojo](../../images/coding-dojo.png)<!-- {.push-left style="height: 100px;"} -->
 Codificação **em grupo**, em que o aluno pode desempenhar um dos três papeis:
 
 **Piloto**:
@@ -64,7 +62,8 @@ Exercício: fazer uma página explicando o que é Coding Dojo
 1. Baixe a pratica do GitHub criado
 1. Em um editor de texto (ex: VS Code), abra a pasta `code-dojo` inteira
 1. <u>Ao final</u> da atividade, a estrutura de pastas será assim:
- [](../../images/coding-dojo-estrutura-de-pastas.png) 
+
+ [](passo-a-pass/coding-dojo-estrutura-de-pastas.png) 
 
 
 ---
