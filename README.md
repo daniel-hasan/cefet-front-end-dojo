@@ -1,7 +1,7 @@
 <!-- {"layout": "centered"} -->
 # Coding Dojo
 
-![Coding Dojo](../../images/coding-dojo.png)
+![Coding Dojo](passo-a-passo/coding-dojo.png)
 
 
 ---
@@ -51,8 +51,6 @@ Codificação **em grupo**, em que o aluno pode desempenhar um dos três papeis:
 <!-- {"layout": "centered-horizontal"} -->
 # Coding Dojo
 
-
-![Coding Dojo](passo-a-passo/images/coding-dojo.png)
 
 Exercício: fazer uma página explicando o que é Coding Dojo
 
