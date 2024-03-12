@@ -52,7 +52,7 @@ Codificação **em grupo**, em que o aluno pode desempenhar um dos três papeis:
 # Coding Dojo
 
 
-![Coding Dojo](../../images/coding-dojo.png)
+![Coding Dojo](passo-a-passo/images/coding-dojo.png)
 
 Exercício: fazer uma página explicando o que é Coding Dojo
 
@@ -63,7 +63,7 @@ Exercício: fazer uma página explicando o que é Coding Dojo
 1. Em um editor de texto (ex: VS Code), abra a pasta `code-dojo` inteira
 1. <u>Ao final</u> da atividade, a estrutura de pastas será assim:
 
- [](passo-a-pass/coding-dojo-estrutura-de-pastas.png) 
+ [](passo-a-passo/coding-dojo-estrutura-de-pastas.png) 
 
 
 ---
